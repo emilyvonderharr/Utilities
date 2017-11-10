@@ -4,7 +4,7 @@
 #   this script is for plink Mendel error checking
 #   run from directory containing .ped files
 
-PLINK=/home/morrellp/vonde026/plink
+PLINK=/home/morrellp/vonde026/Apps/Plink/plink
 MAP=/panfs/roc/groups/9/morrellp/vonde026/Deleterious_GP/Data/Mendel_Errors/From_ExCap/GP_Comb.map
 
 for i in *.ped
